@@ -1,0 +1,10 @@
+
+       Each of the metacharacters listed above under DEFINITIONS has special meaning to the  shell
+       and must be quoted if it is to represent itself.
+
+       When the command history expansion facilities are being used (see HISTORY EXPANSION below),
+       the history expansion character, usually !, must be quoted to prevent history expansion.
+
+       There are three quoting mechanisms: the escape character, single quotes, and double quotes.
+
+       A non-quoted backslash (\) is the escape character.  It preserves the literal value of  the
